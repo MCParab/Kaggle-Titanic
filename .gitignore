@@ -1,0 +1,17 @@
+*.pyc
+*.bkp
+screenlog*
+*.sw*
+no*
+*data*
+*json*
+*.zip
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
