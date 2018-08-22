@@ -1,1 +1,1 @@
-Python Notebooks for kaggle competitions and pratice problems.
+Python Notebooks for kaggle competitions and practice problems.
